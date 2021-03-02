@@ -28,7 +28,6 @@
     "ie >= 11"
   ],
   "dependencies": {
-    "@ant-design/icons": "^4.2.1",
     "@ant-design/pro-provider": "1.4.6",
     "@ant-design/pro-utils": "1.13.2",
     "classnames": "^2.2.6",
