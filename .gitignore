@@ -7,10 +7,10 @@
 _roadhog-api-doc
 
 # production
-**/dist
+#**/dist
 /.vscode
-**/**/lib/**
-**/**/es/**
+#**/**/lib/**
+#**/**/es/**
 # misc
 .DS_Store
 npm-debug.log*
